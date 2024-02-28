@@ -1,0 +1,158 @@
+{
+    "name": "Syed Moinuddin",
+    "status": "Software Front-End Web Engineer",
+    "description": "I am passionate and interested in the ever-growing field of Web Front-End development",
+    "navigations": [
+      {
+        "id": 1,
+        "name": "Home",
+        "url": "/"
+      },
+      {
+        "id": 2,
+        "name": "Resume",
+        "url": "/resume"
+      },
+      {
+        "id": 3,
+        "name": "Projects",
+        "url": "/projects"
+      },
+      {
+        "id": 4,
+        "name": "Experiences",
+        "url": "/experiences"
+      },
+      {
+        "id": 5,
+        "name": "About",
+        "url": "/about"
+      },
+      {
+        "id": 6,
+        "name": "Contact",
+        "url": "/contact"
+      }
+    ],
+    "contact": {
+      "title": "Contact",
+      "description": "Chat with me through some of the contacts you can call to get acquainted.",
+      "contents": [
+        {
+          "id": 1,
+          "icon": "fab fa-whatsapp",
+          "name": "WhatsApp",
+          "username": "+91 9108041057",
+          "category": "Social Media",
+          "url": "https://wa.me/+919108041057"
+        },
+        {
+          "id": 2,
+          "icon": "fab fa-instagram",
+          "name": "Instagram",
+          "username": "@syntax.dev.sde",
+          "category": "Social Media",
+          "url": "https://www.instagram.com/syntax.dev.sde/"
+        },
+        {
+          "id": 5,
+          "icon": "fab fa-linkedin-in",
+          "name": "Linkedin",
+          "username": "Syed Moinuddin",
+          "category": "Social Media",
+          "url": "https://www.linkedin.com/in/syed-moinuddin106/"
+        },
+        {
+          "id": 6,
+          "icon": "fab fa-github",
+          "name": "Github",
+          "username": "SyedMoin-Lab",
+          "category": "Social Media",
+          "url": "https://github.com/SyedMoin-lab"
+        },
+        {
+          "id": 7,
+          "icon": "far fa-envelope",
+          "name": "Gmail",
+          "username": "syedmoinuddin106@gmail.com",
+          "category": "Email",
+          "url": "mailto:syedmoinuddin106@gmail.com"
+        },
+        {
+          "id": 8,
+          "icon": "far fa-compass",
+          "name": "Location",
+          "username": "Bengaluru, India",
+          "category": "location",
+          "url": "https://www.google.com/maps/place/Bengaluru,+Karnataka/@12.9539248,77.0069325,10z/data=!3m1!4b1!4m10!1m2!2m1!1sbengaluru+mpas!3m6!1s0x3bae1670c9b44e6d:0xf8dfc3e8517e4fe0!8m2!3d12.9715987!4d77.5945627!15sCg5iZW5nYWx1cnUgbXBhc5IBCGxvY2FsaXR54AEA!16zL20vMDljMTc?entry=ttu"
+        }
+      ]
+    },
+    "experiences": {
+      "title": "Experiences",
+      "description": "Explore my  work experiences, As well as my work projects",
+      "contents": [
+        {
+          "id": 2,
+          "title": "My Work Experiences",
+          "contents": [
+            {
+              "id": 5,
+              "timestamp": "01 Dec 2023 - Present",
+              "name": "Wings To Grow",
+              "info": "Front End Developer",
+              "description": "Recently started freelancing as a remote front-end developer. Enabling businesses to leverage the full potential:",
+              "url": "https://wingstogrow.netlify.app/",
+              "list": [
+                {
+                  "id": 1,
+                  "name": "Crafting engaging user interfaces with HTML, CSS, and React for dynamic interactivity.:",
+                  "level": "Intermediate"
+                },
+                {
+                  "id": 2,
+                  "name": "front-end responsiveeb applications, Implementing PHP for efficient server-side processing and seamless front-end to back-end communication.",
+                  "level": "Expert"
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "timestamp": "01 Nov 2023 - 25 Jan 2024",
+              "name": "Freelance Web Developer",
+              "info": "Nexus Institutes",
+              "description": "I spearheaded the development of a website for Nexus Institutes, leveraging HTML, CSS, and JavaScript to deliver a visually compelling and user-friendly online platform:",
+              "url": "https://syedmoin-lab.github.io/Nexus-Institutes/",
+              "list": [
+                {
+                  "id": 1,
+                  "name": "Optimized website structure and design to enhance user experience, facilitating easy navigation and engagement with key content.",
+                  "level": "Beginner"
+                },
+                {
+                  "id": 2,
+                  "name": "Implemented SEO best practices and responsive design principles to ensure maximum visibility and accessibility across various devices, driving organic traffic and conversions.",
+                  "level": "Beginner"
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "timestamp": "01 May 2023 - 15 Jun 2023",
+              "name": "Arduino INTERN",
+              "info": "Arduino",
+              "description": "Optimized Arduino-based LIDAR data processing with C++, refining environmental mapping accuracy.:",
+              "list": [
+                {
+                  "id": 1,
+                  "name": "Develop an understanding of and relationship with internal and outsourced development partners on software development.",
+                  "level": "Expert"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+  
