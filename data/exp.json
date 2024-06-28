@@ -96,6 +96,25 @@
           "id": 2,
           "title": "My Work Experiences",
           "contents": [
+               {
+              "id": 5,
+              "timestamp": "01 Jan 2024 - 28 Feb 2024",
+              "name": "Outlier",
+              "info": "Software Engineer",
+              "description": "As a Software Developer at Outlier, I specialize in designing, developing, and maintaining software solutions that enhance operational efficiency and user satisfaction. I work collaboratively with cross-functional teams to deliver high-quality products on time and within budget.:",
+              "list": [
+                {
+                  "id": 1,
+                  "name": " Evaluated and provided constructive feedback on AI-generated writing, ensuring factuality, completeness, and adherence to stylistic guidelines.",
+                  "level": "Intermediate"
+                }
+                  {
+                  "id": 2,
+                  "name": " Demonstrated strong written English with exceptional grammar, spelling, and vocabulary through crafting high-quality original responses to prompts.",
+                  "level": "Intermediate"
+                }
+              ]
+            },
             {
               "id": 5,
               "timestamp": "01 Jan 2024 - 28 Feb 2024",
